@@ -18,7 +18,9 @@ Full task details are available in the `/docs` folder.
 
 ## 🖼️ Screenshots
 
-Screens are saved in the `/screens` folder:
+Screens are saved in the `/screens` folder:!![app - Figma 6_22_2025 10_05_12 PM](https://github.com/user-attachments/assets/d1aa0e73-e3e7-47fc-84f6-c40098faaa33)
+
+
 - Homepage/Menu Overview
 - Category Pages (e.g., Breakfast, Lunch, Dinner)
 
